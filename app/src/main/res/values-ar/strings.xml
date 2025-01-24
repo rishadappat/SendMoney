@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">تطبيق إرسال الأموال</string>
+    <string name="app_name_upper">تطبيق إرسال الأموال</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="welcome">مرحبًا بك في تطبيق إرسال الأموال</string>
+    <string name="agreement">بالمتابعة، فإنك توافق أيضًا على شروط الخدمة وسياسة الخصوصية</string>
+    <string name="send_money">إرسال الأموال</string>
+    <string name="email">البريد الإلكتروني*</string>
+    <string name="password">كلمة المرور*</string>
+    <string name="invalid_username">اسم المستخدم غير صالح</string>
+    <string name="invalid_password">كلمة المرور غير صالحة</string>
+    <string name="empty_password">الرجاء إدخال كلمة المرور</string>
+    <string name="empty_username">الرجاء إدخال البريد الإلكتروني</string>
+    <string name="error">خطأ</string>
+    <string name="dismiss">تجاهل</string>
+    <string name="services">الخدمات</string>
+    <string name="provider">المزود</string>
+    <string name="transactions">المعاملات</string>
+</resources>

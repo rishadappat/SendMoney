@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Send Money App</string>
+    <string name="app_name_upper">SEND MONEY APP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome">Welcome to Send Money App</string>
+    <string name="agreement">By proceeding you also agree to the Terms of Service and Privacy Policy</string>
+    <string name="send_money">Send Money</string>
+    <string name="email">Email*</string>
+    <string name="password">Password*</string>
+    <string name="invalid_username">Invalid username</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="empty_password">Please enter the Password</string>
+    <string name="empty_username">Please enter the Email</string>
+    <string name="error">Error</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="services">Services</string>
+    <string name="provider">Provider</string>
+    <string name="transactions">Transactions</string>
+</resources>
