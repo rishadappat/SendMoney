@@ -1,6 +1,9 @@
 This assignment is designed to evaluate your proficiency in Android development, including UI
 design, data handling, application state management, and implementation of dynamic features.
 
+username: testuser
+password: password123
+
 
 https://github.com/rishadappat/SendMoney/raw/refs/heads/master/Send%20Money.mp4
 
